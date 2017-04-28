@@ -1,0 +1,9 @@
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.exe.config
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.XML
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.exe
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\Kata2.pdb
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\FSharp.Core.dll
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\nunit.framework.dll
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\bin\Debug\FSharp.Core.xml
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\obj\Debug\Kata2.exe
+C:\Users\Marthinus.Louw\Documents\Visual Studio 2015\Projects\Kata2\Kata2\obj\Debug\Kata2.pdb
